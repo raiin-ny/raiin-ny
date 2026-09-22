@@ -131,36 +131,6 @@ A full-stack machine-learning platform for time-series modeling and model evalua
 * React/Vite visualization
 * Node.js/Express integration
 * MongoDB model and training metadata
-
----
-
-### 🥊 FlipTop Projects
-
-A collection of independent projects built around FlipTop battle-rap data and culture.
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://izabuhay.vercel.app" target="_blank">
-        <img src="media/izabuhay-preview.png" alt="Isabuhay Tournament Analytics" width="400"/>
-      </a>
-      <br/>
-      <strong>Isabuhay Tournament Analytics</strong>
-      <br/>
-      <sub>Interactive tournament analytics and visualization</sub>
-    </td>
-    <td align="center">
-      <a href="https://fliptopcards.art/" target="_blank">
-        <img src="media/fliptopcards-preview.png" alt="FlipTop Cards Collection" width="400"/>
-      </a>
-      <br/>
-      <strong>FlipTop Cards Collection</strong>
-      <br/>
-      <sub>Digital collection and presentation project</sub>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🏢 Professional Experience
@@ -226,11 +196,11 @@ Automation
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=raiin-ny&show_icons=true&theme=radical&hide_border=true"
     width="400"
   />
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=raiin-ny&layout=compact&theme=radical&hide_border=true"
     width="400"
   />
 </p>
