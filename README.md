@@ -1,4 +1,4 @@
-<h1 align="center">Sup, I'm Rain Idala 👋</h1>
+<h1 align="center">Greetings, I'm Rain Idala 👋</h1>
 
 <p align="center">
   <strong>Full Stack Developer · Backend Engineer · AI/ML Builder</strong>
