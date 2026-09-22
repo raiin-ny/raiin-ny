@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rainnier Jophet Idala 👋</h1>
+<h1 align="center">Sup, I'm Rain Idala 👋</h1>
 
 <p align="center">
   <strong>Full Stack Developer · Backend Engineer · AI/ML Builder</strong>
@@ -191,19 +191,62 @@ Automation
 ```
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=raiin-ny&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=raiin-ny&show_icons=true&theme=radical&hide_border=true&rank_icon=github"
     width="400"
   />
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=raiin-ny&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=raiin-ny&layout=compact&theme=radical&hide_border=true&langs_count=8"
     width="400"
   />
 </p>
+
+### 🧰 Engineering Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-Development-61DAFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Engineering-339933?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST-APIs-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-Design-4169E1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20RAG-Engineering-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine-Learning-F7931E?style=for-the-badge" />
+</p>
+
+### ⚙️ Engineering Practices
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-Integration-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testing-Engineering-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-First%20Development-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-Deployment-000000?style=for-the-badge" />
+</p>
+
+### 🧠 Currently Building & Exploring
+
+```text
+AI-powered developer tools
+Repository intelligence & RAG
+Backend architecture
+Machine learning systems
+API design & integrations
+Application security
+Automation & developer workflows
+```
+
+### 🎯 What I Bring
+
+```text
+Full-stack development     → Frontend + backend + database
+Backend engineering        → APIs, authentication, integrations
+Production thinking        → Testing, security, reliability
+AI engineering             → RAG, LLM workflows, repository analysis
+ML engineering             → Model evaluation, validation, explainability
+System thinking            → Architecture, data flow, automation
+```
 
 ---
 
