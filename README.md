@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build full-stack applications, backend systems, developer tools, and AI-powered software.
+  Building full-stack applications, backend systems, developer tools, and AI-powered software.
 </p>
 
 <p align="center">
@@ -17,57 +17,25 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧰 Tech Stack
 
-I'm a Full Stack Developer focused on building practical software across the **frontend, backend, database, infrastructure, and AI layers**.
-
-My experience includes developing e-commerce platforms, business management systems, REST APIs, real-time applications, authentication systems, AI/RAG tooling, and machine-learning platforms.
-
-I enjoy working on problems involving:
-
-* 🏗️ System architecture and backend design
-* 🔌 REST APIs and third-party integrations
-* 🔐 Authentication, authorization, and application security
-* 🤖 AI-assisted development and RAG systems
-* 🧠 Machine learning and model evaluation
-* 🗄️ Database design and data workflows
-* ⚙️ Automation, testing, and deployment
-
-Some of my professional work is client-owned, so proprietary source code and sensitive implementation details are intentionally kept private.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Frontend
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-
-### Backend
-
-<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 </p>
 
-### Databases & Infrastructure
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -77,52 +45,112 @@ Some of my professional work is client-owned, so proprietary source code and sen
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
-### AI / Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<p align="center">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🛒 Chambi Nuts
+
+**E-Commerce & Inventory Platform**
+
+Production e-commerce and inventory system built for a real business, covering customer shopping, inventory workflows, payments, shipping, authentication, and real-time operations.
+
+<p align="center">
+  <img src="./asset/chambinuts/dashboard.png" alt="Chambi Nuts Dashboard" width="85%" />
+</p>
+
+<p align="center">
+  <a href="https://chambinuts.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Project-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+**Highlights:**
+
+* E-commerce and inventory management
+* Payment and shipping integrations
+* Authentication and role-based access control
+* Real-time application workflows
+* REST API and database architecture
+
+---
+
+### 🏢 Zian Enterprise
+
+**Multi-Platform Business Management System**
+
+A business management platform spanning web, desktop, and mobile applications, with shared backend services and synchronized operational data.
+
+<p align="center">
+  <img src="./asset/zian_enterprise/desktop/desktop_dashboard.png" alt="Zian Enterprise Desktop Dashboard" width="85%" />
+</p>
+
+<p align="center">
+  <img src="./asset/zian_enterprise/mobile/dashboard_analytics.png" alt="Zian Enterprise Mobile Analytics" width="48%" />
+  <img src="./asset/zian_enterprise/website/shop_by_categories.png" alt="Zian Enterprise Shop by Categories" width="48%" />
+</p>
+
+<p align="center">
+  <img src="./asset/zian_enterprise/website/website_sign_in.png" alt="Zian Enterprise Website Sign In" width="60%" />
+</p>
+
+**Highlights:**
+
+* Web-based business management
+* Desktop/POS application
+* Mobile analytics
+* Customer-facing e-commerce workflows
+* Authentication and account management
+* Real-time data synchronization
+
+**Stack:** React · React Native · Expo · Electron · Node.js · Express · MongoDB · Socket.io
+
+---
+
 ### 🧠 GLINK-X
 
 **Autonomous Repository Intelligence & RAG Engine**
 
-A personal AI engineering project focused on understanding and working with software repositories.
+A personal AI engineering project focused on understanding software repositories and assisting with development workflows.
 
-**Key areas:**
+**Highlights:**
 
 * Repository-aware semantic retrieval
 * Code chunking and embeddings
-* AST analysis
+* AST-based repository analysis
 * Dependency and code relationship analysis
 * Context ranking and token-budget management
 * AI-generated development plans
-* AST-based verification
-* Controlled patch execution
+* Local verification and controlled patch execution
 * Git checkpoints and rollback
-* CLI-based repository analysis
 
-> Personal project. Designed to explore reliable AI-assisted software development.
+**Stack:** Python · RAG · LLMs · Ollama · MongoDB · AST Analysis
 
 ---
 
 ### 📈 Quantitative Intelligence & Time-Series ML Platform
 
-A full-stack machine-learning platform for time-series modeling and model evaluation.
+**Machine Learning & Model Evaluation Platform**
 
-**Key areas:**
+A full-stack machine-learning platform focused on time-series modeling, validation, explainability, and model evaluation.
+
+<p align="center">
+  <img src="./asset/glink/Training.png" alt="Quantitative Intelligence and Time-Series ML Platform" width="85%" />
+</p>
+
+**Highlights:**
 
 * XGBoost and Scikit-Learn
 * Leakage-aware walk-forward validation
 * Causal feature engineering
-* Market-structure analysis
 * Model benchmarking
 * SHAP explainability
 * Probability calibration
@@ -131,66 +159,13 @@ A full-stack machine-learning platform for time-series modeling and model evalua
 * React/Vite visualization
 * Node.js/Express integration
 * MongoDB model and training metadata
----
 
-## 🏢 Professional Experience
+**Stack:** Python · XGBoost · Scikit-Learn · Pandas · NumPy · React · Node.js · MongoDB
 
-I've worked on multiple client-owned systems involving:
-
-**E-Commerce & Inventory**
-
-* Full-stack commerce and inventory workflows
-* Payment and refund processing
-* Multi-provider shipping integrations
-* Inventory management
-* Authentication and RBAC
-* Real-time customer support
-* Audit logging
-
-**Business Management**
-
-* Web applications
-* Desktop/POS applications
-* Mobile analytics applications
-* Shared backend services
-* Real-time data synchronization
-
-**Education & Administration**
-
-* Student record management
-* Guidance/offense management
-* Automated workflows
-* Reporting and data migration
-
-**Payroll**
-
-* Employee data management
-* Payroll computation
-* Business workflow implementation
-* Functional and integration testing
-
-> Client projects are intentionally not published publicly because their source code and business information are proprietary.
+> Client projects are not publicly published because their source code and business information are proprietary.
 
 ---
 
-## 🔐 Engineering Interests
-
-I'm particularly interested in:
-
-```text
-System Architecture
-Backend Engineering
-AI Engineering
-RAG Systems
-Developer Tools
-Machine Learning
-Application Security
-Distributed Workflows
-Data Modeling
-Automation
-```
-
----
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -204,49 +179,16 @@ Automation
   />
 </p>
 
-### 🧰 Engineering Focus
+### ⚙️ Engineering Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-Development-61DAFB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend-Engineering-339933?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST-APIs-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-Design-4169E1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20%2F%20RAG-Engineering-7B61FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine-Learning-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-Engineering-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software-Architecture-4169E1?style=for-the-badge" />
 </p>
-
-### ⚙️ Engineering Practices
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-Integration-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Testing-Engineering-6DB33F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-First%20Development-8B0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-Deployment-000000?style=for-the-badge" />
-</p>
-
-### 🧠 Currently Building & Exploring
-
-```text
-AI-powered developer tools
-Repository intelligence & RAG
-Backend architecture
-Machine learning systems
-API design & integrations
-Application security
-Automation & developer workflows
-```
-
-### 🎯 What I Bring
-
-```text
-Full-stack development     → Frontend + backend + database
-Backend engineering        → APIs, authentication, integrations
-Production thinking        → Testing, security, reliability
-AI engineering             → RAG, LLM workflows, repository analysis
-ML engineering             → Model evaluation, validation, explainability
-System thinking            → Architecture, data flow, automation
-```
 
 ---
 
