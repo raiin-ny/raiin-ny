@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,100:0A66C2&height=180&section=header&text=Rain%20Idala&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Backend%20%7C%20AI%2FML%20Builder&descAlignY=58&descSize=18" width="100%" />
+</p>
+
 <h1 align="center">Greetings, I'm Rain Idala 👋</h1>
 
 <p align="center">
@@ -161,10 +165,6 @@ A personal AI engineering project focused on understanding software repositories
 
 A full-stack machine-learning platform focused on time-series modeling, validation, explainability, and model evaluation.
 
-<p align="center">
-  <img src="./asset/glink/Training.png" alt="Quantitative Intelligence and Time-Series ML Platform" width="85%" />
-</p>
-
 **Highlights:**
 
 * XGBoost and Scikit-Learn
@@ -189,12 +189,17 @@ A full-stack machine-learning platform focused on time-series modeling, validati
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=raiin-ny&show_icons=true&theme=radical&hide_border=true&rank_icon=github"
-    width="400"
+    src="https://ghchart.rshah.org/7B61FF/raiin-ny"
+    alt="Rain Idala's GitHub contribution graph"
+    width="820"
   />
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=raiin-ny&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=raiin-ny&theme=radical&hide_border=true"
     width="400"
+    height="195"
   />
 </p>
 
