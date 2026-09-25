@@ -1,22 +1,32 @@
+<!-- ═══════════════ HERO ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,100:0A66C2&height=180&section=header&text=Rain%20Idala&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Backend%20%7C%20AI%2FML%20Builder&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,100:0A66C2&height=200&section=header&text=Hello%20World&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Backend%20%7C%20AI%2FML%20Builder&descAlignY=58&descSize=18" width="100%" />
 </p>
 
-<h1 align="center">Greetings, I'm Rain Idala 👋</h1>
+<table align="center" border="0">
+  <tr>
+    <td valign="middle" align="left" width="55%">
+      <h1>Greetings, I'm Rain Idala 👋</h1>
+      <h3>Full Stack Developer · Backend Engineer · AI/ML Builder</h3>
+      <p>Building full-stack applications, backend systems, developer tools, and AI-powered software.</p>
+      <p>
+        <a href="mailto:idalarainnierjophet@gmail.com">
+          <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail" />
+        </a>
+        <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20Backend%20%7C%20AI-blue?style=flat-square" />
+        <img src="https://komarev.com/ghpvc/?username=raiin-ny&label=Profile%20views&color=7B61FF&style=flat-square" alt="Profile views" />
+      </p>
+    </td>
+    <td valign="middle" align="right" width="45%">
+      <img src="./asset/profile/animation.svg" alt="Rain Idala" width="350" height="350" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <strong>Full Stack Developer · Backend Engineer · AI/ML Builder</strong>
-</p>
-
-<p align="center">
-  Building full-stack applications, backend systems, developer tools, and AI-powered software.
-</p>
-
-<p align="center">
-  <a href="mailto:idalarainnierjophet@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail" />
+  <a href="https://github.com/raiin-ny">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Engineer;AI%2FML+Builder;Turning+coffee+into+shipped+software" alt="Typing SVG" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20Backend%20%7C%20AI-blue?style=flat-square" />
 </p>
 
 ---
