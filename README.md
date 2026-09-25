@@ -87,24 +87,48 @@ Production e-commerce and inventory system built for a real business, covering c
 
 **Multi-Platform Business Management System**
 
-A business management platform spanning web, desktop, and mobile applications, with shared backend services and synchronized operational data.
+A business management platform spanning **web, desktop, and mobile applications**, with shared backend services and synchronized operational data.
+
+<p align="center">
+  <strong>Customer Web Platform</strong>
+</p>
+
+<p align="center">
+  <img src="./asset/zian_enterprise/website/home.png" alt="Zian Enterprise homepage" width="85%" />
+</p>
+
+<p align="center">
+  <img src="./asset/zian_enterprise/website/shop_by_categories.png" alt="Zian Enterprise Shop by Categories" width="85%" />
+</p>
+
+<p align="center">
+  <strong>Mobile Analytics</strong>
+</p>
+
+<p align="center">
+  <img src="./asset/zian_enterprise/mobile/dashboard_analytics.png" alt="Zian Enterprise Mobile Analytics" width="85%" />
+</p>
+
+<p align="center">
+  <strong>Desktop Operations</strong>
+</p>
 
 <p align="center">
   <img src="./asset/zian_enterprise/desktop/desktop_dashboard.png" alt="Zian Enterprise Desktop Dashboard" width="85%" />
 </p>
 
-<p align="center">
-  <img src="./asset/zian_enterprise/mobile/dashboard_analytics.png" alt="Zian Enterprise Mobile Analytics" width="48%" />
-  <img src="./asset/zian_enterprise/website/shop_by_categories.png" alt="Zian Enterprise Shop by Categories" width="48%" />
-</p>
+**Platform Highlights**
 
-<p align="center">
-  <img src="./asset/zian_enterprise/website/website_sign_in.png" alt="Zian Enterprise Website Sign In" width="60%" />
-</p>
+| Platform    | Focus                                                         |
+| ----------- | ------------------------------------------------------------- |
+| 🌐 Web      | Customer-facing commerce and account workflows                |
+| 📱 Mobile   | Analytics and operational visibility                          |
+| 🖥️ Desktop | Business operations and POS workflows                         |
+| ⚡ Backend   | Shared APIs, database services, and real-time synchronization |
 
 **Highlights:**
 
-* Web-based business management
+* Multi-platform business management
 * Desktop/POS application
 * Mobile analytics
 * Customer-facing e-commerce workflows
