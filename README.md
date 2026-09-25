@@ -89,33 +89,28 @@ Production e-commerce and inventory system built for a real business, covering c
 
 A business management platform spanning **web, desktop, and mobile applications**, with shared backend services and synchronized operational data.
 
-<p align="center">
-  <strong>Customer Web Platform</strong>
-</p>
-
-<p align="center">
-  <img src="./asset/zian_enterprise/website/home.png" alt="Zian Enterprise homepage" width="85%" />
-</p>
-
-<p align="center">
-  <img src="./asset/zian_enterprise/website/shop_by_categories.png" alt="Zian Enterprise Shop by Categories" width="85%" />
-</p>
-
-<p align="center">
-  <strong>Mobile Analytics</strong>
-</p>
-
-<p align="center">
-  <img src="./asset/zian_enterprise/mobile/dashboard_analytics.png" alt="Zian Enterprise Mobile Analytics" width="85%" />
-</p>
-
-<p align="center">
-  <strong>Desktop Operations</strong>
-</p>
-
-<p align="center">
-  <img src="./asset/zian_enterprise/desktop/desktop_dashboard.png" alt="Zian Enterprise Desktop Dashboard" width="85%" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./asset/zian_enterprise/website/home.png" alt="Zian Enterprise homepage" width="420" height="300" style="object-fit:cover;" /><br/>
+      <sub><strong>🌐 Web — Home</strong></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./asset/zian_enterprise/website/shop_by_categories.png" alt="Zian Enterprise Shop by Categories" width="420" height="300" style="object-fit:cover;" /><br/>
+      <sub><strong>🌐 Web — Shop by Categories</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./asset/zian_enterprise/mobile/dashboard_analytics.png" alt="Zian Enterprise Mobile Analytics" width="220" /><br/>
+      <sub><strong>📱 Mobile — Analytics</strong></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="./asset/zian_enterprise/desktop/desktop_dashboard.png" alt="Zian Enterprise Desktop Dashboard" width="420" height="300" style="object-fit:cover;" /><br/>
+      <sub><strong>🖥️ Desktop — Operations</strong></sub>
+    </td>
+  </tr>
+</table>
 
 **Platform Highlights**
 
@@ -216,13 +211,27 @@ A full-stack machine-learning platform focused on time-series modeling, validati
 
 ---
 
-## 📫 Connect
+## 📫 Let's Connect
 
-<p>
+<p align="center">
   <a href="mailto:idalarainnierjophet@gmail.com">
-    <img src="https://img.shields.io/badge/Email-idalarainnierjophet%40gmail.com-red?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-idalarainnierjophet%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="[YOUR_LINKEDIN_URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/raiin-ny">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <sub>Open to full-stack, backend, and AI engineering opportunities.</sub>
+</p>
+
+<br/>
+
+---
 
 <p align="center">
   <i>Building software, experimenting with AI, and occasionally convincing computers to cooperate.</i>
