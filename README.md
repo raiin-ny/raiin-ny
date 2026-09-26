@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://github.com/raiin-ny">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Engineer;AI%2FML+Builder;Turning+coffee+into+shipped+software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Engineer;AI%2FML+Builder;Turning+ideas+into+automated+solution" alt="Typing SVG" />
   </a>
 </p>
 
